@@ -3,7 +3,7 @@ This program provides you with a simple way to configure wifi enabled linux devi
 
 # Mockup
 
-![](https://lh5.googleusercontent.com/n7ooigwkYilhRT5wpqmzPHQ2UucpSmDr1n7ckh_zFyIDopJauRL4xLIafLS5fGUMnjbibMCmg_M=w1256-h567)
+![wifi configurator 1](https://cloud.githubusercontent.com/assets/5524043/5925375/f7375992-a617-11e4-9b88-a4c46baecf7b.jpg)
 
 # Wifi Configurator Flow
 1) Device boots up, and so does the 'wifi configurator' program
