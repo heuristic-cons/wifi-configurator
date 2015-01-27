@@ -1,6 +1,10 @@
 # About
 This program provides you with a simple way to configure wifi enabled linux devices to connect to a wifi network. Why? Because a lot of devices such as the Raspberry Pi or Beagle Bone require the use of a keyboard and monitor plugged into the device, or SSHing into over ethernet just to edit the config files that allow it to connect to a network. This is a pain to do for many devices, and we think it can be a lot easier for you if you use this program!
 
+# Mockup
+
+![](https://lh5.googleusercontent.com/n7ooigwkYilhRT5wpqmzPHQ2UucpSmDr1n7ckh_zFyIDopJauRL4xLIafLS5fGUMnjbibMCmg_M=w1256-h567)
+
 # Wifi Configurator Flow
 1) Device boots up, and so does the 'wifi configurator' program
 
